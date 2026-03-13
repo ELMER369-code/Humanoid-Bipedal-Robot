@@ -10,13 +10,11 @@
 
 ## 📸 Visuals
 
-### Robot Overview
 <p align="center">
   <img src="humanoid-pic1.png" alt="Humanoid Pic 1" width="45%">
   <img src="humanoid-back.png" alt="Humanoid Back" width="45%">
 </p>
 
-### Demos
 <p align="center">
   <video src="humanoid-vid1.MOV" width="45%" controls></video>
   <video src="humanoid-vid2.MOV" width="45%" controls></video>
