@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <video src="humanoid-vid1.MOV" width="45%" controls></video>
-  <video src="humanoid-vid2.MOV" width="45%" controls></video>
+  <video src="https://github.com/user-attachments/assets/0a4ebf07-52be-46ac-9f92-4e82ded5fdab" width="45%" controls></video>
+  <video src="https://github.com/user-attachments/assets/902e3b46-8fa9-4ffe-9cf6-df171f6abc38" width="45%" controls></video>
 </p>
 
 ---
