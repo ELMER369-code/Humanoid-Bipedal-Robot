@@ -1,8 +1,8 @@
 # Humanoid Bipedal Robot
 
-![Build Status](https://img.shields.io/badge/Arduino-Micro-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+[![Arduino](https://img.shields.io/badge/Arduino-Micro-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 **A professional Humanoid Bipedal Robot controlled via IR remote, featuring 15 degrees of freedom and intelligent obstacle avoidance.**
 
